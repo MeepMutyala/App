@@ -39,7 +39,7 @@ $(document).ready(function(){
     $(".current-section").css({"opacity":1,"visibility":"visible"});
     for(var i in headings) {
       if(scrolltop >= headings[i].top) {
-        $(".current-section .name").text(headings[i].text);
+        $(".current-section .name").text(headings[i].text)
       }
     }
   });
