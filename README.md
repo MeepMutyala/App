@@ -1,2 +1,1 @@
-App
-Apu
+#Hello! Please enter your Glucose Levels.
