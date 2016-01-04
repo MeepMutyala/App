@@ -1,2 +1,2 @@
 # App
-console.log ("Apu")
+Apu
